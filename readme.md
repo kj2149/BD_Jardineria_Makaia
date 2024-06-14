@@ -4,7 +4,7 @@ makaia
 
 
 
-integrnates:
+integrantes:
 * Samuel Cifuentes
 * Camilo Andres Sierra
 * Manuela Bedoya Moreno
