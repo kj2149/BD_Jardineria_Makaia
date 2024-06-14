@@ -10,4 +10,4 @@ integrantes:
 * Manuela Bedoya Moreno
 
 
-!(imagenes/makaia.png)
+!(makaia.png)
